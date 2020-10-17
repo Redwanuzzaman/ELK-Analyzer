@@ -26,9 +26,9 @@ Configure : /etc/elasticsearch/elasticsearch.yml
 
 For more information: https://www.elastic.co/guide/en/elasticsearch/reference/current/deb.html#install-deb
 
-**Configure : /etc/elasticsearch/elasticsearch.yml
+**Configure : /etc/elasticsearch/elasticsearch.yml**
 
-**Modifications: (uncomment these lines)
+**Modifications: (uncomment these lines)**
 
 cluster.name: my-application
 node.name: node-1
