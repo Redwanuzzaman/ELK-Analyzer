@@ -23,3 +23,14 @@ shasum -a 512 -c elasticsearch-7.9.2-amd64.deb.sha512
 sudo dpkg -i elasticsearch-7.9.2-amd64.deb
 
 Configure : /etc/elasticsearch/elasticsearch.yml
+
+For more information: https://www.elastic.co/guide/en/elasticsearch/reference/current/deb.html#install-deb
+
+**Configure : /etc/elasticsearch/elasticsearch.yml
+
+**Modifications: (uncomment these lines)
+
+cluster.name: my-application
+node.name: node-1
+network.host: localhost
+http.port: 9200
