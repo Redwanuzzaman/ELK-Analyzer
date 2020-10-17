@@ -30,7 +30,7 @@ For more information: https://www.elastic.co/guide/en/elasticsearch/reference/cu
 
 **Modifications: (uncomment these lines)**
 
-cluster.name: my-application
-node.name: node-1
-network.host: localhost
-http.port: 9200
+#### cluster.name: my-application
+#### node.name: node-1
+#### network.host: localhost
+#### http.port: 9200
