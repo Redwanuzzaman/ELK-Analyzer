@@ -34,3 +34,6 @@ For more information: https://www.elastic.co/guide/en/elasticsearch/reference/cu
 #### node.name: node-1
 #### network.host: localhost
 #### http.port: 9200
+
+
+Next **Configure : /etc/kibana/kibana.yml**
