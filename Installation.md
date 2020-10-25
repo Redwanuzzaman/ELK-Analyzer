@@ -57,7 +57,7 @@ sudo dpkg -i kibana-7.9.2-amd64.deb
 For more information: https://www.elastic.co/guide/en/kibana/current/deb.html
 
 
-**Configure : /etc/kibana/kibana.yml**
-**Modifications: (uncomment these lines)**
-**server.port: 5601**
-**server.host: "localhost"**
+#### Configure : /etc/kibana/kibana.yml
+#### Modifications: (uncomment these lines)
+#### server.port: 5601
+#### server.host: "localhost"
