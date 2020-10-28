@@ -1,2 +1,2 @@
 # ELK-Analyzer
-Analyze Logs With Elasticsearch, Logstash and Kibana.
+Analyze Logs With Elasticsearch, Logstash, Kibana and Filebeat.
